@@ -121,7 +121,3 @@ A key challenge was improving security without disrupting existing functionality
 
 ### Repository Link
 [View Repository](insert_link_here)
-
-## GitHub / Portfolio Link
-[GitHub Pages](insert_link_here)
-[Repository](insert_link_here)
