@@ -16,7 +16,7 @@ In algorithms and data structures, I learned how design choices impact performan
 
 In database development, I gained experience designing and interacting with both SQL and NoSQL systems. I implemented CRUD operations, improved query handling, and strengthened data validation. I also incorporated secure coding practices such as removing hardcoded credentials and improving error handling to protect sensitive data and improve system reliability.
 
-Security became an important focus throughout my development process. I learned to anticipate vulnerabilities such as improper input handling, insecure storage of credentials, and weak validation logic. In my enhancements, I applied secure coding practices including input validation, safer data handling, and improved database interaction methods to reduce potential risks.
+Security became an important focus throughout my development process. I learned to anticipate vulnerabilities such as improper input handling, insecure storage of credentials, and weak validation logic. In my enhancements, I applied secure coding practices, including input validation, safer data handling, and improved database interaction methods to reduce potential risks.
 
 Overall, this ePortfolio represents my ability to design, develop, and improve software systems across multiple domains of computer science. The artifacts demonstrate not only my technical growth but also my ability to think critically, evaluate systems, and apply improvements that enhance functionality, performance, and security. As I move forward professionally, I plan to apply these skills in a software development role where I can contribute to building reliable, scalable, and user-centered applications.
 
@@ -26,7 +26,7 @@ This ePortfolio contains three enhanced artifacts that represent my growth in so
 Together, these artifacts demonstrate my ability to analyze existing systems, identify areas for improvement, and apply industry-standard development practices to deliver stronger, more secure, and more efficient software solutions.
 
 ## Code Review
-Video Link: [(https://youtu.be/oaD4XZAQ-VA)]
+[Video Link](https://youtu.be/oaD4XZAQ-VA)
 
 ## Enhancement One: Software Design and Engineering 
 ### Artifact Description
@@ -37,19 +37,19 @@ This artifact was selected because it demonstrates full-stack mobile application
 
 Key components include:
 
--Login system using SharedPreferences
--SQLite database for structured data storage
--Logging interface using adapters and list views
+- Login system using SharedPreferences
+- SQLite database for structured data storage
+- Logging interface using adapters and list views
 
 Enhancements focused on improving application structure, input validation, and usability. I refactored goal management logic, improved data persistence handling, and enhanced user feedback through clearer UI messaging. These changes improved maintainability and overall user experience.
 
 ### Skills Demonstrated
--Object-oriented programming (Java)
--Android application architecture
--SQLite database integration
--UI/UX improvements
--Input validation and error handling
--Code refactoring and modular design
+- Object-oriented programming (Java)
+- Android application architecture
+- SQLite database integration
+- UI/UX improvements
+- Input validation and error handling
+- Code refactoring and modular design
 
 ### Reflection
 This enhancement reinforced the importance of separating application logic into clearly defined components. I learned how tightly coupled logic can create maintenance challenges and increase the risk of errors when modifying functionality.
@@ -57,7 +57,7 @@ This enhancement reinforced the importance of separating application logic into 
 A major challenge was updating interconnected components without breaking existing functionality. This required iterative testing and careful debugging. Overall, the enhancement improved both the structure and usability of the application while strengthening my understanding of mobile software design.
 
 ### Repository Link
-Video Link: [insert here]
+[View Repository](insert_link_here)
 
 ## Enhancement Two: Algorithms and Data Structures
 ### Artifact Description
@@ -69,18 +69,18 @@ This artifact demonstrates my ability to apply data structures to solve real-wor
 
 Enhancements included:
 
--Removing redundant sorting operations
--Implementing case-insensitive search functionality
--Improving prerequisite validation logic
+- Removing redundant sorting operations
+- Implementing case-insensitive search functionality
+- Improving prerequisite validation logic
 
 These improvements increased efficiency and improved user experience by making the system more flexible and reliable.
 
 ### Skills Demonstrated
--Map and vector data structures
--Algorithm optimization
--Search and filtering logic
--Time complexity awareness
--Data validation techniques
+- Map and vector data structures
+- Algorithm optimization
+- Search and filtering logic
+- Time complexity awareness
+- Data validation techniques
 
 ### Reflection
 
@@ -89,7 +89,7 @@ This enhancement improved my understanding of how data structures directly affec
 The most challenging part was ensuring that prerequisite validation remained accurate while modifying search logic. This required careful testing and debugging. Overall, the system became more efficient and user-friendly.
 
 ### Repository Link
-Video Link: [insert here]
+[View Repository](insert_link_here)
 
 ## Enhancement Three: Databases
 ### Artifact Description
@@ -100,19 +100,19 @@ This artifact demonstrates my ability to design and implement database-driven ap
 
 Enhancements included:
 
--Improved data validation for input integrity
--Enhanced query functionality (filtering and sorting)
--Strengthened error handling
--Removed hardcoded credentials using environment variables
+- Improved data validation for input integrity
+- Enhanced query functionality (filtering and sorting)
+- Strengthened error handling
+- Removed hardcoded credentials using environment variables
 
 These improvements increased system security, reliability, and flexibility.
 
 ### Skills Demonstrated
--MongoDB database operations
--Python backend development
--CRUD implementation
--Secure credential handling
--Input validation and error management
+- MongoDB database operations
+- Python backend development
+- CRUD implementation
+- Secure credential handling
+- Input validation and error management
 
 ### Reflection
 This enhancement reinforced the importance of secure database design. I learned how missing validation can lead to inconsistent or invalid data storage.
@@ -120,4 +120,8 @@ This enhancement reinforced the importance of secure database design. I learned 
 A key challenge was improving security without disrupting existing functionality. Implementing environment variables and strengthening validation significantly improved system safety and maintainability.
 
 ### Repository Link
-Video Link: [insert here]
+[View Repository](insert_link_here)
+
+## GitHub / Portfolio Link
+[GitHub Pages](insert_link_here)
+[Repository](insert_link_here)
