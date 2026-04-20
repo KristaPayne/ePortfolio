@@ -57,7 +57,7 @@ This enhancement reinforced the importance of separating application logic into 
 A major challenge was updating interconnected components without breaking existing functionality. This required iterative testing and careful debugging. Overall, the enhancement improved both the structure and usability of the application while strengthening my understanding of mobile software design.
 
 ### Repository Link
-[View Repository](insert_link_here)
+[View Repository](https://github.com/KristaPayne/CS-360-Mobile-Architect---Programming)
 
 ## Enhancement Two: Algorithms and Data Structures
 ### Artifact Description
@@ -89,7 +89,7 @@ This enhancement improved my understanding of how data structures directly affec
 The most challenging part was ensuring that prerequisite validation remained accurate while modifying search logic. This required careful testing and debugging. Overall, the system became more efficient and user-friendly.
 
 ### Repository Link
-[View Repository](insert_link_here)
+[View Repository](https://github.com/KristaPayne/CS-300-DSA-Analysis-Design)
 
 ## Enhancement Three: Databases
 ### Artifact Description
@@ -120,4 +120,4 @@ This enhancement reinforced the importance of secure database design. I learned 
 A key challenge was improving security without disrupting existing functionality. Implementing environment variables and strengthening validation significantly improved system safety and maintainability.
 
 ### Repository Link
-[View Repository](insert_link_here)
+[View Repository](https://github.com/KristaPayne/CS-340-Client-Server-Development)
